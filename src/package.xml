@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
- 
     <types>
         <members>*</members>
         <name>ApexClass</name>
@@ -21,8 +20,6 @@
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
-    
-     
     <types>
         <members>*</members>
         <name>CustomObject</name>
@@ -43,6 +40,5 @@
         <members>*</members>
         <name>CustomSite</name>
     </types>
-       
     <version>38.0</version>
 </Package>

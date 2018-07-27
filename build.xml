@@ -11,13 +11,7 @@
             singlePackage="true"
             purgeOnDelete="true" />
     </target>
-    <target name="fetchChanges">
-        <sf:retrieve username="${sf1.username}"
-                     password="${sf1.password}"
-                     serverurl="${sf1.serverurl}"
-                     retrieveTarget="src"
-                     unpackaged="/src/package.xml"/>
-    </target>
+   
 
    
 
