@@ -1,4 +1,6 @@
 public class Demo {
 // New comment
-//Hello Salesforce
+//Hello Salesforce 
+//This is a Demo class
+
 }
